@@ -824,4 +824,4 @@ func (c *ChainConfig) Rules(num *big.Int, isMerge bool) Rules {
 }
 
 // MinerDAOAddress EIP1559 remain gas to DAO Address
-var MinerDAOAddress = common.HexToAddress("0x01c2C2FB1C31d902FA6C8A5A60a93353704BA4bc")
+var MinerDAOAddress = common.HexToAddress("0xa41369359488CF4Cd512B0287BA70ca37C324853")
